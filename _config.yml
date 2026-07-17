@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Ye He"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "No. 10 Xitucheng Road, Beijing, China"
-  employer         : "Beijing University of Posts and Telecommunications"
+  bio              : "得闲饮茶"
+  location         : "Beijing, China"
+  employer         : "BUPT"
   uri              : # URL
   email            : "yehe@bupt.edu.cn" 
 
