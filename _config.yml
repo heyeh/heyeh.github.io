@@ -26,7 +26,7 @@ author:
   avatar           : "pppp.png"
   name             : "Ye He"
   pronouns         : # example: "she/her"  
-  bio              : "得闲饮茶"
+  bio              : "Brain science is fascinating."
   location         : "Beijing, China"
   employer         : "BUPT"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=a4uk0GwAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
