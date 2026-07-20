@@ -13,6 +13,9 @@ My research interests include cognitive neuroscience and brain imaging-based ana
 
 Our team recently work on Brain-inspired multimodal large models, ... and ... so on.
 
+I recruit <font color="red">2-3 Master's students and 1 PhD student</font> each year. Students interested in brain and cognitive science are welcome to contact me.
+
+
 
 
 
